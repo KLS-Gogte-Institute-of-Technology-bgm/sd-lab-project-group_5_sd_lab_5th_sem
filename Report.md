@@ -10,10 +10,15 @@ Development include the establishment and maintenance of back-end database and f
 application development aspects.
 
 Build with
+
 Java and MySQL.
 
 Team Members
+
 VISHWANATH       2GI18CS188 
+
 ROHAN HATAGINE   2GI18CS109 
+
 RAMAN PAWAR      2GI18CS107 
+
 PRAJWAL SHINDE   2GI18CS093 
